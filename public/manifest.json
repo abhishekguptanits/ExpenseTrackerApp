@@ -1,0 +1,8 @@
+{
+  "short_name": "Expense Tracker App",
+  "name": "Expense Tracker App built on top of Create React App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
