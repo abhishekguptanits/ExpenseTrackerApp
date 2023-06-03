@@ -51,3 +51,9 @@ using the app:
 
 3. Data Visualization: The charts and graphs on the dashboard provide an overview of your expenses based on different criteria. 
     Analyze your spending patterns to make informed financial decisions.
+
+**Live App**
+
+App is deployed on firebase hosting, which can be accessed on following links
+1. https://expense-tracker-app-001.web.app/
+2. https://expense-tracker-app-001.firebaseapp.com/
