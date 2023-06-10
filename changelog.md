@@ -1,0 +1,2 @@
+- developed backend api for expenses
+- updated frontend react app to use backend expenses api service

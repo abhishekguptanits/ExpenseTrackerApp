@@ -14,7 +14,7 @@ function Expenses({ expenses }) {
   const [filteredYear, setFilteredYear] = useState(currentYear.toString());
 
   const filteredExpeses = expenses.filter(
-    (expense) => expense.date.getFullYear().toString() === filteredYear
+    (expense) => new Date(expense.date).getFullYear().toString() === filteredYear
   );
 
   const filterChangeHandler = (selectedYear) => {
