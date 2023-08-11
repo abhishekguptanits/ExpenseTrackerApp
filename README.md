@@ -4,6 +4,8 @@ This repository contains an Expense Tracker App, a simple web application design
 It allows users to view and add expenses, and provides visual representation of their spending habits through charts and 
 graphs.
 
+Access the live version of the app [here](https://expense-tracker-app-001.web.app/).
+
 **Table of Contents**
   1. Features
   2. Installation
